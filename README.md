@@ -1,3 +1,4 @@
 # demo
-my first ever git repositary.
+my first ever git repository.
+<br>
 author-lilith
